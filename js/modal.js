@@ -26,6 +26,22 @@ var btn_sel = document.getElementById("btn-sel");
 var modal_cup = document.getElementById("modal-cup");
 var btn_cup = document.getElementById("btn-cup");
 
+document.getElementById("btn-Brochure").addEventListener('click', function() {
+  var urlArchivo = 'files/Brochure.pdf';
+  //window.location.href = 'visualizar-pdf.html?url=' + encodeURIComponent(urlArchivo);
+  window.open(urlArchivo, '_blank');
+});
+document.getElementById("btn-docRequerimientos").addEventListener('click', function() {
+  var urlArchivo = 'files/req.pdf';
+  //window.location.href = 'visualizar-pdf.html?url=' + encodeURIComponent(urlArchivo);
+  window.open(urlArchivo, '_blank');
+});
+document.getElementById("btn-malla").addEventListener('click', function() {
+  var urlArchivo = 'files/Malla_Curricular.pdf';
+  //window.location.href = 'visualizar-pdf.html?url=' + encodeURIComponent(urlArchivo);
+  window.open(urlArchivo, '_blank');
+});
+
 // Abrir modal al hacer clic en el botón
 btn_1.addEventListener("click", function() {
   modal_1.style.display = "block";
