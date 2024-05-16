@@ -14,13 +14,13 @@ Para la configuración e instalación del sistema, necesitas:
 <tbody>
  <tr>
 <td align="center" width="33%">
-<img height=60px src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"> 
+<img height=90px src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain-wordmark.svg"> 
 </td>
 <td align="center" width="33%">
-<img height=60px src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg"> 
+<img height=90px src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original-wordmark.svg"> 
 </td>
 <td align="center" width="33%">
-<img height=60px src="https://www.gitkraken.com/wp-content/uploads/2021/07/GitBashLogo.jpg.webp"> 
+<img height=90px src="https://www.gitkraken.com/wp-content/uploads/2021/07/GitBashLogo.jpg.webp"> 
 </td>
 </tr>
 </tbody>
@@ -33,7 +33,6 @@ Para instalar y empezar con la configuración en tu máquina local, es necesario
 
 
 git clone https://github.com/admin-redes-fisei/maestria_produccion_operaciones.git
-
 
 Después de clonar el repositorio en tu máquina local ingresas a la carpeta, con el comando:
 
@@ -50,16 +49,16 @@ Las herramientas utilizadas en este proyecto son:
 <tbody>
  <tr>
 <td align="center" width="30%">
-<img height=60px src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"> 
+<img height=90px src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain-wordmark.svg"> 
 </td>
 <td align="center" width="30%">
-<img height=60px src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"> 
+<img height=90px src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg"> 
 </td>
 <td align="center" width="30%">
-<img height=60px src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg"> 
+<img height=90px src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain-wordmark.svg"> 
 </td>
 <td align="center" width="30%">
-<img height=60px src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg"> 
+<img height=90px src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original-wordmark.svg"> 
 </td>
 </tr>
 </tbody>
