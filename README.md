@@ -32,7 +32,7 @@ Para la configuración e instalación del sistema, necesitas:
 Para instalar y empezar con la configuración en tu máquina local, es necesario primero clonar el repositorio en la terminal de Git Bash de la siguiente manera:
 
 
-git clone https://github.com/admin-redes-fisei/maestria_produccion_operaciones_v2.git
+git clone https://github.com/admin-redes-fisei/maestria_produccion_operaciones.git
 
 
 Después de clonar el repositorio en tu máquina local ingresas a la carpeta, con el comando:
